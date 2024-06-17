@@ -6,9 +6,7 @@ by
 
 Ferdinand Pfab, A. Raine Detmer, Holly V. Moeller, Roger M. Nisbet, Hollie M. Putnam, and Ross Cunning
 
-published in
-
-Coral Reefs, 2024
+published in Coral Reefs, 2024
 
 Contact: ferdinand.pfab@gmail.com
 
