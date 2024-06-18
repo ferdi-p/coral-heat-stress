@@ -10,7 +10,7 @@ published in Coral Reefs, 2024
 
 Contact: ferdinand.pfab@gmail.com
 
-The model is programmed with Wolfram Mathematica 14. All files should be downloaded in the same folder to run the model.
+The model is programmed with Wolfram Mathematica 14. All files need to be downloaded in the same folder to run the model.
 
 To run the time trajectory simulations:
 
